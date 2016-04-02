@@ -7,7 +7,7 @@ Overview
 
 Linking your bank statements with your accounting can be a lot of work.
 You need to find invoices back, relate payments and that amount of
-administration can cast a lot of time. Luckily, with Odoo you can very
+administration can cost a lot of time. Luckily, with Odoo you can very
 easily link your invoices or any other payment with your bank
 statements.
 
